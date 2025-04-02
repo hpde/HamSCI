@@ -1,9 +1,6 @@
-# naming-auth-template
-Initialization template for new Spase Naming Authorities.
+# HamSCI
+Ham Radio Science Citizen Investigation
 
-Creating a new github repository using this template will copy in the README and LICENSE files
-and add .github/workflows scripts to automate alerts on push updates.
+Visit the [website]([https://www.hamsci.org/]) [https://www.hamsci.org/]
 
-When creating a new Naming Authority repository, select
-hpde/naming-auth-template
-from the "Repository template" dropdown at the top of the new repository panel.
+
